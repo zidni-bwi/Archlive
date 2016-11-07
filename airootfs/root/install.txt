@@ -1,0 +1,6 @@
+untuk Panduan installasi lengkapnya silahkan baca di:
+https://linuxlifehacks.wordpress.com/2016/08/31/menginstall-arch/
+
+Untuk panduan official-nya baca disini:
+https://wiki.archlinux.org/index.php/Installation_Guide
+
